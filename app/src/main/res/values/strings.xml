@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ChallengeOne</string>
+    <string name="title_activity_about_alc">AboutAlc</string>
+    <string name="title_activity_my_profile">MyProfile</string>
+    <string name="text_data"> A community empowering the next
+                        generation of africa technology leaders
+    </string>
+    <string name="scrole_data">the andela learning community is
+        anetwork of people technologists and tech enthusiasts across
+    Africa dedicated to learning how to work, design and bring new innovative solutions to market
+    </string>
+    <string name="description_text">THE ANDELA LEARNING COMMUNITY </string>
+    <string name="scrollable_content">The Andela Learning Community is a network of
+        people technologists and tech enthusiasts across Africa dedicated to learning
+        how to use technology to solve humanity’s problems.
+        The ALC facilitates your learning through the aid of guided mentorship from super awesome
+        learning community ambassadors. Our goal is to provide an ever-growing
+        population of aspiring technologists with the resources and environments they need
+        to become world-class problem solvers
+        Acceptance into this program is limited, so get started today to ensure you don’t miss out!
+        Applicants will be prioritized based on Pluralsight Skill IQs,
+        amount of Pluralsight content consumed and other target demographics.
+    </string>
+    <string name="about">About</string>
+    <string name="profile">Profile</string>
+    <string name="welcome_to_alc_4_0">welcome to ALC 4.0</string>
+    <string name="textview">TextView</string>
+</resources>
